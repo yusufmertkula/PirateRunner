@@ -1,0 +1,4 @@
+#Wed Aug 17 17:40:32 EET 2022
+base.0=D\:\\Unity Projeler\\PiratesRunner\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
